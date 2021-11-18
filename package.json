@@ -2,6 +2,6 @@
     "name": "com.msf.lz4",
     "version": "1.0.0",
     "displayName": "LZ4",
-    "description": "lz4",
+    "description": "LZ4压缩精简版",
     "unity": "2019.1"
 }
